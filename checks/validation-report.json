@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:30.252015+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z6801-orchestral-trailer-pulses-opening/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "80f6d55abb0017b5fd0ea5a5436fc886b3a543efbd9bd1aecfd70204b4d404db",
+      "errors": []
+    },
+    {
+      "path": "midi/z6801-orchestral-trailer-pulses-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "0ef651b102266310ead6f03db9374aa7a41688e487815e11cf85725a24cd9f1f",
+      "errors": []
+    },
+    {
+      "path": "midi/z6801-orchestral-trailer-pulses-opening/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z6801-orchestral-trailer-pulses-opening/principal_motif.mid",
+      "bytes": 491,
+      "sha256": "86e735c3a075f080a7efe14140c687abd89afd81f31f3ba9b666568b815484e5",
+      "errors": []
+    },
+    {
+      "path": "midi/z6801-orchestral-trailer-pulses-opening/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "53164a327c9415b7c92adca02891f5a042fb9b494f3f3ab6663c7cf192f41956",
+      "errors": []
+    },
+    {
+      "path": "midi/z6801-orchestral-trailer-pulses-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "ae6598c06a6fe0a5dc9f58585333e6fbb8fc480f48b5b6ad958613d2435ab255",
+      "errors": []
+    },
+    {
+      "path": "midi/z6801-orchestral-trailer-pulses-opening/z6801-orchestral-trailer-pulses-opening-combined.mid",
+      "bytes": 3088,
+      "sha256": "62e149a324a88b39ab5453c3379c85a8be19e3be984f062af9a5e5c6c1cf6cc6",
+      "errors": []
+    },
+    {
+      "path": "midi/z6802-orchestral-trailer-pulses-variation/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "e5aef8d0342e158809622ff6d4ab92e6c954d83c023fb3ebfb3ba489156220ef",
+      "errors": []
+    },
+    {
+      "path": "midi/z6802-orchestral-trailer-pulses-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "bb0cb83104a6c7a9456e734f47fda5baf48cf2c5d9e81171249b389c11a25602",
+      "errors": []
+    },
+    {
+      "path": "midi/z6802-orchestral-trailer-pulses-variation/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z6802-orchestral-trailer-pulses-variation/principal_motif.mid",
+      "bytes": 490,
+      "sha256": "7cf58c875ca657b11584b95897a984fa52e2a99ade62edbb80c430fc782d9187",
+      "errors": []
+    },
+    {
+      "path": "midi/z6802-orchestral-trailer-pulses-variation/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "adca6118714ccebd3edb31d6623beb02a70d9ea8247475a464991bcb866a70cf",
+      "errors": []
+    },
+    {
+      "path": "midi/z6802-orchestral-trailer-pulses-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "319cd0dea728ffc22cd0d7c0e1241468abc5ec6a10048b6b9bc4bc333ad0095a",
+      "errors": []
+    },
+    {
+      "path": "midi/z6802-orchestral-trailer-pulses-variation/z6802-orchestral-trailer-pulses-variation-combined.mid",
+      "bytes": 3087,
+      "sha256": "f815a5b93f09f9dc2efce251629ddf3368394dd8afc08c55a62235b78a8adc3f",
+      "errors": []
+    },
+    {
+      "path": "midi/z6803-orchestral-trailer-pulses-contrast/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "e2f393a991e74417260135d4ca17020cf992b323e64c1549b183db5a4658390c",
+      "errors": []
+    },
+    {
+      "path": "midi/z6803-orchestral-trailer-pulses-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "40c4ebfc8f33a4529267556b219b36945b2bcad298f94b783c52b29e197b7b81",
+      "errors": []
+    },
+    {
+      "path": "midi/z6803-orchestral-trailer-pulses-contrast/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z6803-orchestral-trailer-pulses-contrast/principal_motif.mid",
+      "bytes": 470,
+      "sha256": "137d140128cf5572fb961016dd805bb84320754e05b900402077a560e37750d0",
+      "errors": []
+    },
+    {
+      "path": "midi/z6803-orchestral-trailer-pulses-contrast/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "dcbf3a7775f48f1d46f79ab162ecb0b884e82d0769a79fd03ea0b98119648cfc",
+      "errors": []
+    },
+    {
+      "path": "midi/z6803-orchestral-trailer-pulses-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "fc8ac51ce6cb9c94d7dec749508fbfb3bae1232ef34b077109cf75d21f791fdc",
+      "errors": []
+    },
+    {
+      "path": "midi/z6803-orchestral-trailer-pulses-contrast/z6803-orchestral-trailer-pulses-contrast-combined.mid",
+      "bytes": 3067,
+      "sha256": "37e0a3b1288468075368e6b2b5a3103e507a2cd9161e38653d277a8c99f90f92",
+      "errors": []
+    },
+    {
+      "path": "midi/z6804-orchestral-trailer-pulses-return/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "b96eccbcabdbdf6220b569d90674bd5d75b3b8082dd94f883e020612acd88b7d",
+      "errors": []
+    },
+    {
+      "path": "midi/z6804-orchestral-trailer-pulses-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "b6311ef36b5995acf234f34ede1b475b4b533bd3bce2524c918b3e1f8e14267f",
+      "errors": []
+    },
+    {
+      "path": "midi/z6804-orchestral-trailer-pulses-return/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z6804-orchestral-trailer-pulses-return/principal_motif.mid",
+      "bytes": 470,
+      "sha256": "98c1880bb062266d47e2a3622ba3d53b5cebeeda4a168eb90c9aaddd877f7167",
+      "errors": []
+    },
+    {
+      "path": "midi/z6804-orchestral-trailer-pulses-return/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "3f4c16baab211a627c98da5c065cd4edac8196204f290d2889fdc60a2e7c7a51",
+      "errors": []
+    },
+    {
+      "path": "midi/z6804-orchestral-trailer-pulses-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "07e1eda764eae547b8ba6a3c606494d4150d5d3436fc9acbd70c501fa557fdda",
+      "errors": []
+    },
+    {
+      "path": "midi/z6804-orchestral-trailer-pulses-return/z6804-orchestral-trailer-pulses-return-combined.mid",
+      "bytes": 3067,
+      "sha256": "f6f91a14e8ef664f40b8ebaf552b0a657347f3a0d61a56578d085eed73ba8ebb",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

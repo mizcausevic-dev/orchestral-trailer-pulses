@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/orchestral-trailer-pulses-simple-synth-preview.mp3",
+  "preview_sha256": "f694dee05afef7a08b18e2703aae304c9325c1305246e7dc15a9ff9dd010557f",
+  "source_midi_path": "midi/z6801-orchestral-trailer-pulses-opening/z6801-orchestral-trailer-pulses-opening-combined.mid",
+  "source_midi_sha256": "62e149a324a88b39ab5453c3379c85a8be19e3be984f062af9a5e5c6c1cf6cc6",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z6801",
+    "start_seconds": 0,
+    "end_seconds": 106.667
+  },
+  "measurement": {
+    "sample_peak": 0.127707,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

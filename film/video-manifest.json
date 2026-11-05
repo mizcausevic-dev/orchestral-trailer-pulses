@@ -1,0 +1,26 @@
+{
+  "title": "Orchestral Trailer Pulses",
+  "study": "z6801",
+  "bpm": 72,
+  "source_audio": "preview/orchestral-trailer-pulses-simple-synth-preview.mp3",
+  "source_audio_sha256": "f694dee05afef7a08b18e2703aae304c9325c1305246e7dc15a9ff9dd010557f",
+  "source_midi": "midi/z6801-orchestral-trailer-pulses-opening/z6801-orchestral-trailer-pulses-opening-combined.mid",
+  "source_midi_sha256": "62e149a324a88b39ab5453c3379c85a8be19e3be984f062af9a5e5c6c1cf6cc6",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "a0bfb5ea705268aded071e09b7fdfb6d03b2271103976f5f72cfcf417a7dda2f",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "2bf7c0bb93fcf2aebfb6c1a727ca8edaea0f8b4ad358f576e149864f6a86e0a9",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "dd70df15e5a764e933cf8dc6ba4d80990f62c84e6da408a8808641006d850337",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
