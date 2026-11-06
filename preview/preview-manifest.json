@@ -1,9 +1,9 @@
 {
   "label": "preview, not a master.",
   "preview_path": "preview/orchestral-trailer-pulses-simple-synth-preview.mp3",
-  "preview_sha256": "f694dee05afef7a08b18e2703aae304c9325c1305246e7dc15a9ff9dd010557f",
+  "preview_sha256": "0d462a5eb2761266d80e9fa2bca0a87f2be7dffe76544d9144c51b03f6aee468",
   "source_midi_path": "midi/z6801-orchestral-trailer-pulses-opening/z6801-orchestral-trailer-pulses-opening-combined.mid",
-  "source_midi_sha256": "62e149a324a88b39ab5453c3379c85a8be19e3be984f062af9a5e5c6c1cf6cc6",
+  "source_midi_sha256": "36236a79c148a90adbf60ef06215c73aeba727a376f37d9c2cad90b19590e6cd",
   "renderer": "release-simple-synth 1.0.0",
   "renderer_configuration": {
     "sample_rate": 44100,
@@ -23,7 +23,7 @@
     "end_seconds": 106.667
   },
   "measurement": {
-    "sample_peak": 0.127707,
+    "sample_peak": 0.153289,
     "not_lufs_or_true_peak": true
   },
   "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
