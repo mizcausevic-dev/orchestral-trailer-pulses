@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/orchestral-trailer-pulses-midi.zip",
-      "bytes": 27789,
-      "sha256": "ce896342a895b0ceb9d28c7c75dca1478f7e4ebd7b0d9649e7a5b6b077516636"
+      "bytes": 29237,
+      "sha256": "d028ed8a2c0b5f1b98d7090417565584495215c4642fb489a6b2b82f4fefda11"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10258,
-      "sha256": "e46cb6859855f0b70ffb5927e1db43ae9f95f2480cf14e869c2a6ae4cdec39dc"
+      "bytes": 10448,
+      "sha256": "20384ab6efae8f724bfb82de79b922574e5e2aee2a0f8a1a9dfe12225e8be358"
     },
     {
       "path": "midi/z6801-orchestral-trailer-pulses-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "a935e82e0dd3d657dfda5677eed634dff12c395077455cea3c54e27c350f0112"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/orchestral-trailer-pulses-simple-synth-preview.mp3",
       "bytes": 2573627,
       "sha256": "0d462a5eb2761266d80e9fa2bca0a87f2be7dffe76544d9144c51b03f6aee468"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4162,
-      "sha256": "eb828306ae8f28a576525c03a0ad9ea8f9e1870fe596aab338372569f15508c0"
+      "bytes": 4277,
+      "sha256": "8f551b3eef1a30b35f77b2398ee6698380e00f26b3996f882edf78826f944e8d"
     },
     {
       "path": "REVISION.md",
